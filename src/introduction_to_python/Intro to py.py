@@ -1,2 +1,2 @@
 def main() -> None:
-    print("introduction-to-python")
+    print("introduction to python")
