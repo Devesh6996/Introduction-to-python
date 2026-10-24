@@ -1,5 +1,5 @@
 a = float(input("First number: "))
-op = input("Operator (+ - * / // % **): ")
+op = input("Operator (+ - * /): ")
 b = float(input("Second number: "))
 
 if op == "+":
